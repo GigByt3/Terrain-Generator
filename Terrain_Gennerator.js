@@ -8,5 +8,16 @@ function fill(map) {
 }
 
 function random_terrain(number, array) {
-	switch()
+	if(number/1000000 % 2 == 0) {
+	
+	} else if(number/1000000 % 2 == 1) {
+		
+	} else if() {
+			  
+	} else if() {
+		
+	} else {
+		
+	}
+			  
 }
